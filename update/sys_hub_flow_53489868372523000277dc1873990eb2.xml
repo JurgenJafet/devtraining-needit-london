@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>This is the challenge from the flow designer tutorial</description>
+        <internal_name>challenge_needit</internal_name>
+        <label_cache>[{"name":"1f9a0c6e-2035-40ab-a7d8-037e176cf44b.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"cef4e657-7de1-442f-931f-1af1d66640b3.calculated_date","label":"2➛Calculated date","reference_display":"Calculated date","type":"string","base_type":"string"},{"name":"88180f6e-d097-449a-9ebf-19d73ebfe749.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"88180f6e-d097-449a-9ebf-19d73ebfe749.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"f34b7475-5256-4e70-9936-852b1ee5d942.Records","label":"3➛NeedIt Task Records","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"records","base_type":"records"},{"name":"f34b7475-5256-4e70-9936-852b1ee5d942.Table","label":"3➛NeedIt Task Table","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"table_name","base_type":"table_name"},{"name":"f34b7475-5256-4e70-9936-852b1ee5d942.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"b4efe340-aa0a-4500-93a5-b0d134c91e1b.record","label":"4➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"b4efe340-aa0a-4500-93a5-b0d134c91e1b.table_name","label":"4➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"99d2fe9a-813c-4d43-8d11-d51864dcb534.item","label":"4➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"},{"name":"c0be419e-b22c-40f6-82ee-275a536a2b3f.record","label":"4.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"c0be419e-b22c-40f6-82ee-275a536a2b3f.table_name","label":"4.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"99d2fe9a-813c-4d43-8d11-d51864dcb534.item.number","label":"4➛NeedIt Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_58872_needit_needit_task","column_name":"number"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Challenge NeedIt</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-30 23:13:28</sys_created_on>
+        <sys_id>53489868372523000277dc1873990eb2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Challenge NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_53489868372523000277dc1873990eb2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-30 23:21:28</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=53489868372523000277dc1873990eb2"/>
+    <sys_variable_value action="delete_multiple" query="document_key=53489868372523000277dc1873990eb2"/>
+</record_update>
